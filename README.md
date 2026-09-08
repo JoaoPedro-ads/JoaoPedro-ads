@@ -1,6 +1,6 @@
 # Hi 👋, I'm Joao Pedro
 
-🚀 **Junior Software Engineer | Java, Python & Sql**  
+🚀 **Junior Software Engineer | Computer Science Student | Java, Python & Sql**  
 🇧🇷 Brazil
 
 I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
