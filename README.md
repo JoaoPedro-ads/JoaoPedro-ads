@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Joao Pedro
 
-<!--
-**JoaoPedro-ads/JoaoPedro-ads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Junior Software Engineer | Java, Python & Sql**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
+I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
+I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/JoaoPedro-ads">
+    <img src="https://img.shields.io/badge/GitHub-JOAOPEDRO--ADS-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/037_joaopedro?stkn=aWd6ZDR5M2NjajRy&utm_source=qr">
+    <img src="https://img.shields.io/badge/Instagram-@037__JOAOPEDRO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
